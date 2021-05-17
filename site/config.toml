@@ -3,10 +3,12 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
 theme = "dream"
-
-headerTitle = "Learning Machine Learning"
-author = "Node"
-enableSearch = true
+[params]
+    headerTitle = "Learning Machine Learning"
+    author = "Node"
+    enableSearch = true
+    rss = true
+    siteStartYear = 2020
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration
