@@ -4,7 +4,7 @@ languageLang = "en"
 title = "Homepage"
 theme = "dream"
 [params]
-    headerTitle = "Learning Machine Learning"
+    headerTitle = "Learning. Machine Learning"
     author = "Node"
     enableSearch = true
     rss = true
